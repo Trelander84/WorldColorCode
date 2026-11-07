@@ -1,0 +1,21 @@
+## Interface: 120105
+## Title: World Color Code
+## Notes: Tint treasure icons on the minimap
+## Author: Trelander
+## Version: 12.1.5.1
+## SavedVariables: WorldColorCodeDB
+## X-Curse-Project-ID: 1788769
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\HereBeDragons\HereBeDragons-2.0.lua
+Libs\HereBeDragons\HereBeDragons-Pins-2.0.lua
+
+Core\DB.lua
+Data\Shadowlands.lua
+Data\Dragonflight.lua
+Data\WarWithin.lua
+Data\Midnight.lua
+Data\WhatsNew.lua
+Core\Pins.lua
+UI\Window.lua
